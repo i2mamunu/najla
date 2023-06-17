@@ -184,7 +184,7 @@ input{
 .video-container {
   position: relative;
   padding-bottom: 56.25%; /* Set the aspect ratio (16:9 for widescreen YouTube videos) */
-  padding-top: 30px;
+  padding-top: 50px;
   height: 0;
   overflow: hidden;
 }
